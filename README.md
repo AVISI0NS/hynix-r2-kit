@@ -11,7 +11,7 @@ SK하이닉스 AI 해커톤 2026 2차 예선용 개인 작업 키트.
 과제 작업 폴더 루트에서:
 
 ```bash
-git clone https://github.com/<계정>/hynix-r2-kit.git .kit
+git clone https://github.com/AVISI0NS/hynix-r2-kit.git .kit
 cp .kit/AGENTS.md .kit/TASK.md .kit/DECISIONS.md .
 # 출제자가 준 AGENTS.md가 이미 있으면 덮어쓰지 말고: cat .kit/AGENTS.md >> AGENTS.md
 echo ".kit/" >> .git/info/exclude
