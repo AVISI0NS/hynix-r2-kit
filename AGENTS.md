@@ -1,7 +1,6 @@
 # AGENTS.md — 작업 규칙
 
 > 응시자 본인이 작성한 Codex 작업 규칙. 과제 안내(README 등)와 충돌하면 과제 안내가 우선한다.
-> 참고: hamjoon2003/sk-hynix-2nd-harness (MIT), keepdev0919/hynix 의 공개 AGENTS.md 구조를 참고해 재작성.
 
 ## 0. 역할
 - 나: 목표, 성공 기준, 가정, 중단 시점을 정한다. 모든 선택은 내가 한다.
