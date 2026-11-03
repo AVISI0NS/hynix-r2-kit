@@ -16,7 +16,6 @@ SK하이닉스 AI 해커톤 2026 2차 예선용 개인 작업 키트. 파일 4�
 ```bash
 git clone https://github.com/AVISI0NS/hynix-r2-kit.git .kit
 cp .kit/AGENTS.md .kit/NOTES.md .
-echo ".kit/" >> .git/info/exclude
 ```
 
 - 출제자가 준 AGENTS.md가 이미 있으면 덮어쓰지 말고 `cat .kit/AGENTS.md >> AGENTS.md`.
